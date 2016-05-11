@@ -5,3 +5,10 @@ A list of Tutorials and Guides Related to Product Marketing
 
 [Keyword Explorer by Moz](
 https://moz.com/explorer/overview?q=Flask+Angularjs+API)
+
+
+[Norton Safeweb for Scanning Website Content for Hacked/Spam Links](
+https://safeweb.norton.com/)
+
+
+
