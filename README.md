@@ -19,7 +19,7 @@ https://safeweb.norton.com/)
 
 ### Backups
 
-(Backup all wordpress data with Updatedraftplus)[https://wordpress.org/plugins/updraftplus/]
+[Backup all wordpress data with Updatedraftplus](https://wordpress.org/plugins/updraftplus/)
 
 
 
