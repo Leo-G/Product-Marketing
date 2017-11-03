@@ -27,5 +27,7 @@ https://safeweb.norton.com/)
 
 [Backup all wordpress data with Updatedraftplus](https://wordpress.org/plugins/updraftplus/)
 
+### Product Marketing
 
+[Complete Guide to Product Qualified Leads(https://get.hull.io/complete-guide-pqls/chapter1/)
 
